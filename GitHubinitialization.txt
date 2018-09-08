@@ -1,0 +1,7 @@
+>>Git Terminal opening in that folder
+go yo that folder and click right button of mouse and click Bash here 
+>>Initialize git local repositry 
+type >> git init
+>>git remote add origin "repository link"
+>> git pull origin master #to fetch data from server
+>>
