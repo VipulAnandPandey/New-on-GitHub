@@ -4,4 +4,8 @@ go yo that folder and click right button of mouse and click Bash here
 type >> git init
 >>git remote add origin "repository link"
 >> git pull origin master #to fetch data from server
+>>git status
+>>git add filename
+>>git add dekstop.ini
+>>git commit -m "massage- whatever you want give massase"
 >>
